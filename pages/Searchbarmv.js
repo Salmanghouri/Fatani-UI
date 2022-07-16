@@ -8,7 +8,7 @@ import Browseproopt from "./components/Browseproopt";
 const Searchbarmv = () => {
   return (
     <>
-      <header className="text-white body-font bg-gradient-to-r from-[#7dd3fc] via-[#7dd3fc] to-[#7dd3fc] p-1">
+      <header className="text-white body-font bg-gradient-to-r from-cyan-400 to-indigo-800 p-1">
         <div className="container mx-auto flex flex-wrap p-0 flex-col md:flex-row items-center">
           <ul className="   flex lg:w-2/5 flex-wrap items-center text-base md:ml-auto  ">
             <div className="flex items-center ml-8"></div>
