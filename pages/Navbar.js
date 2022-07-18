@@ -22,13 +22,13 @@ const Navbar = () => {
   
           {/* <BiCodeAlt className="text-4xl font-[600] text-teal-900 cursor-pointer" />
           <span className="ml-3 text-3xl font-extrabold text-teal-600 cursor-pointer">Salman Ghouri Dev</span> */}
-           <div className="mt-9 mb-1">
+           <div className="mt-1 ">
         <Link href="/">
           <a className="flex order-first lg:order-none  lg:w-1/5 title-font font-medium items-center text-gray-900 lg:items-center lg:justify-center mb-4 md:mb-0"> <Image
-              src="/fatanilogo.png"
+              src="/Final.png"
               alt="Picture of the author"
-              width={190}
-              height={62}
+              width={150}
+              height={150}
               
             /></a>
         </Link>

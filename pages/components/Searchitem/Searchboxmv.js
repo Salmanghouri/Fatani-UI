@@ -3,7 +3,7 @@ import React from 'react'
 const Searchboxmv = () => {
   return (
     <>
-    <form className="flex items-center mt-1 p-2">   
+    <form className="flex items-center  p-2">   
   <label htmlFor="simple-search" className="sr-only">Search</label>
   <div className="relative w-full">
     <div className="flex absolute inset-y-0 left-0 items-center pl-3 pointer-events-none">

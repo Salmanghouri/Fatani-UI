@@ -4,7 +4,7 @@ const Brands = () => {
   return (
    <>
   <section>
-  <h1 className="font-bold text-3xl py-5 ">Featured Agencies</h1>
+  <h1 className="font-bold text-2xl mx-2 py-5 ">Featured Agencies</h1>
 
   <div className=" px-5 py-3 mx-auto lg:px-16">
     <div className="mx-auto text-center">

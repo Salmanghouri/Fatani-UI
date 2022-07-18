@@ -1,9 +1,9 @@
 import React from "react";
 import Link from 'next/link'
 import Image from 'next/image'
-import Searchmvop from "./components/Searchmvop";
-import Searchboxmv from "./components/Searchboxmv";
-import Browseproopt from "./components/Browseproopt";
+import Searchmvop from "./components/Searchitem/Searchmvop";
+import Searchboxmv from "./components/Searchitem/Searchboxmv";
+import Browseproopt from "./components/Topoptions/Browseproopt";
 
 const Searchbarmv = () => {
   return (
